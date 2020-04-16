@@ -1,0 +1,2 @@
+rootProject.name='hiot_cloud3'
+include ':app'
